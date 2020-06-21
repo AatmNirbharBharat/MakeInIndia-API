@@ -39,7 +39,7 @@ https.get(sheetURL, resp => {
         const temp = {}
         headers.map((header, index) => {
           const value = e[index] && e[index].split('\n').length > 1 ? e[index].split('\n') : e[index]
-          temp[header] = value
+          temp[header] = value || null
         })
         return temp
       })
