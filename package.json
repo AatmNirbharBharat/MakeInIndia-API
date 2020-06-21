@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "rollup -c",
+    "run": "node build/main.js",
+    "generate_api": "npm run build && npm run run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
