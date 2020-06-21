@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "product": "Samung MI 21",
     "company": "Samsung",
     "headquarters": "South Korea",
@@ -12,6 +13,7 @@
     "parent_company_origin": null
   },
   {
+    "id": "2",
     "product": "-",
     "company": "Flipkart",
     "headquarters": "Bengaluru",
