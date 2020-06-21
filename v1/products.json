@@ -1,0 +1,21 @@
+[
+  {
+    "product": "Samung MI 21",
+    "company": "Samsung",
+    "headquarters": "South Korea",
+    "manufracturing_locations": [
+      "India",
+      "Korea"
+    ],
+    "parent_company": "-",
+    "origin": "Korea"
+  },
+  {
+    "product": "-",
+    "company": "Flipkart",
+    "headquarters": "Bengaluru",
+    "parent_company": "Wallmart",
+    "origin": "India",
+    "parent_company_origin": "US"
+  }
+]
