@@ -8,12 +8,14 @@
       "Korea"
     ],
     "parent_company": "-",
-    "origin": "Korea"
+    "origin": "Korea",
+    "parent_company_origin": null
   },
   {
     "product": "-",
     "company": "Flipkart",
     "headquarters": "Bengaluru",
+    "manufracturing_locations": null,
     "parent_company": "Wallmart",
     "origin": "India",
     "parent_company_origin": "US"
